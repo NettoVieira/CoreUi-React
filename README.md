@@ -14,11 +14,11 @@ $ cd CoreUi-React
 $ yarn
 ```
 
-#Para rodar no browser
+# start in browser
 ``` bash
 # dev server with hot reload at http://localhost:3000
 $ yarn start
 ```
 
-Navigate to [http://localhost:3000](http://localhost:3000). The app will automatically reload if you change any of the source files.
+Navigate to [http://localhost:3000](http://localhost:3000).
 
